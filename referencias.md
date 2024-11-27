@@ -1,3 +1,3 @@
 #Referencias
 
-![enlace](https://es.wikipedia.org/wiki/Sostenibilidad)
+[Enlace a Wikipedia/Sostenibilidad](https://es.wikipedia.org/wiki/Sostenibilidad)
